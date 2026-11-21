@@ -1,0 +1,7 @@
+com.trport.mobile.app-pngs-0 /storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/build/generated/res/pngs/debug
+com.trport.mobile.app-resValues-1 /storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/build/generated/res/resValues/debug
+com.trport.mobile.app-packageDebugResources-2 /storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.trport.mobile.app-packageDebugResources-3 /storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.trport.mobile.app-debug-4 /storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.trport.mobile.app-debug-5 /storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/debug/res
+com.trport.mobile.app-main-6 /storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/res

@@ -1,0 +1,49 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.trport.mobile"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/AndroidManifest.xml:2:5-67
+11-->/storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/AndroidManifest.xml:2:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/AndroidManifest.xml:3:5-79
+12-->/storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/AndroidManifest.xml:3:22-76
+13
+14    <application
+14-->/storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/AndroidManifest.xml:4:5-8:19
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:label="TR PORT"
+17-->/storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/AndroidManifest.xml:4:76-99
+18        android:theme="@android:style/Theme.Material.NoActionBar"
+18-->/storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/AndroidManifest.xml:4:18-75
+19        android:usesCleartextTraffic="false" >
+19-->/storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/AndroidManifest.xml:4:100-136
+20        <activity
+20-->/storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/AndroidManifest.xml:5:9-7:20
+21            android:name="com.trport.mobile.MainActivity"
+21-->/storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/AndroidManifest.xml:5:19-47
+22            android:exported="true"
+22-->/storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/AndroidManifest.xml:5:85-108
+23            android:screenOrientation="portrait" >
+23-->/storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/AndroidManifest.xml:5:48-84
+24            <intent-filter>
+24-->/storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/AndroidManifest.xml:6:13-154
+25                <action android:name="android.intent.action.MAIN" />
+25-->/storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/AndroidManifest.xml:6:28-79
+25-->/storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/AndroidManifest.xml:6:36-77
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->/storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/AndroidManifest.xml:6:79-138
+27-->/storage/emulated/0/GtaPort/TR_PORT_Mobile_Project/app/src/main/AndroidManifest.xml:6:89-136
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>
