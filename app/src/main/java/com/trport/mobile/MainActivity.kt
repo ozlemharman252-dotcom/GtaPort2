@@ -1,5 +1,4 @@
 package com.trport.mobile
-import android.view.InputDevice
 
 import android.app.Activity
 import android.os.Bundle
