@@ -249,9 +249,7 @@ Thermal: Android thermal API availability varies; not read in this scan."""
         }
         card("GAMEPAD", "Bluetooth controller input detection can be expanded. This prototype has no game engine to receive gameplay input.")
         page.addView(button("CHECK INPUT DEVICE") {
-            val devices: List<InputDevice> = emptyList<android.view.InputDevice>(); //  { id -> InputDevice.getDevice(id) }.filter { d ->
-                d.sources and (InputDevice.SOURCE_GAMEPAD or InputDevice.SOURCE_JOYSTICK) != 0
-            }
+            val devices = emptyList<InputDevice>()
             notice(if (devices.isEmpty()) "No gamepad detected." else devices.joinToString { it.name })
         })
     }
